@@ -52,6 +52,7 @@
     </div>
     <div class="col-xl-6 d-xl-flex align-items-center justify-content-end">
       <div>
+        <img src="{{ asset('img/logo-SUMSEL.png') }}" alt="Logo" class="img-fluid instances-logo p-2">
         <img src="{{ asset('img/Canada.png') }}" alt="Logo" class="img-fluid instances-logo p-2">
         <img src="{{ asset('img/CIFOR.png') }}" alt="Logo" class="img-fluid instances-logo p-2">
         <img src="{{ asset('img/ICRAF.png') }}" alt="Logo" class="img-fluid instances-logo p-2">

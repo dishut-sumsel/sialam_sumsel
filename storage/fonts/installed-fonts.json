@@ -1,26 +1,26 @@
 {
     "font awesome 5 brands": {
-        "normal": "font_awesome_5_brands_normal_465e3affdc5fc1703d2799a33619eb78"
+        "normal": "font_awesome_5_brands_normal_48344c9edccd894ae7d5c0e922b9b1cf"
     },
     "font awesome 5 free": {
-        "normal": "C:\\xampp\\htdocs\\sialam-landaccess\\storage\\fonts\/font_awesome_5_free_normal_632db0591310b7dcda127f3352c7e00c",
-        "900": "font_awesome_5_free_900_b6de638921647b20bf14a53351e1ca47"
+        "normal": "C:\\xampp\\htdocs\\sialam_sumsel\\storage\\fonts\/font_awesome_5_free_normal_7e42cc8123b04afd5b46fab384960714",
+        "900": "font_awesome_5_free_900_e02ce5110fec003e0f32844b70d6bd22"
     },
     "source sans pro": {
-        "italic": "C:\\xampp\\htdocs\\sialam-landaccess\\storage\\fonts\/source_sans_pro_italic_cac41251f15b9a4aee7427d48e782d57",
-        "300": "C:\\xampp\\htdocs\\sialam-landaccess\\storage\\fonts\/source_sans_pro_300_e6f8860060566bc31122c3e5b926afcc",
-        "normal": "C:\\xampp\\htdocs\\sialam-landaccess\\storage\\fonts\/source_sans_pro_normal_527fd880e5f0616c5c6e47172134b1e2",
-        "bold": "source_sans_pro_bold_766695022bdb54b97f188041e36a8119"
+        "italic": "C:\\xampp\\htdocs\\sialam_sumsel\\storage\\fonts\/source_sans_pro_italic_cac41251f15b9a4aee7427d48e782d57",
+        "300": "C:\\xampp\\htdocs\\sialam_sumsel\\storage\\fonts\/source_sans_pro_300_e6f8860060566bc31122c3e5b926afcc",
+        "normal": "source_sans_pro_normal_527fd880e5f0616c5c6e47172134b1e2",
+        "bold": "C:\\xampp\\htdocs\\sialam_sumsel\\storage\\fonts\/source_sans_pro_bold_766695022bdb54b97f188041e36a8119"
     },
     "archivo": {
-        "italic": "C:\\xampp\\htdocs\\sialam-landaccess\\storage\\fonts\/archivo_italic_a38989b8e7854ab1f5901cb5768e5049",
-        "300": "C:\\xampp\\htdocs\\sialam-landaccess\\storage\\fonts\/archivo_300_e24596b03b17a525bbfc614a05f5dcff",
-        "normal": "C:\\xampp\\htdocs\\sialam-landaccess\\storage\\fonts\/archivo_normal_f1745c169020ff34dedc711335524138",
-        "bold": "archivo_bold_43b83fce74a908561126d7b7a49045c7"
+        "italic": "C:\\xampp\\htdocs\\sialam_sumsel\\storage\\fonts\/archivo_italic_a38989b8e7854ab1f5901cb5768e5049",
+        "300": "C:\\xampp\\htdocs\\sialam_sumsel\\storage\\fonts\/archivo_300_e24596b03b17a525bbfc614a05f5dcff",
+        "normal": "archivo_normal_f1745c169020ff34dedc711335524138",
+        "bold": "C:\\xampp\\htdocs\\sialam_sumsel\\storage\\fonts\/archivo_bold_43b83fce74a908561126d7b7a49045c7"
     },
     "lexend": {
-        "300": "C:\\xampp\\htdocs\\sialam-landaccess\\storage\\fonts\/lexend_300_40dfe9281656cb54e5c65f48f6eb2336",
-        "normal": "C:\\xampp\\htdocs\\sialam-landaccess\\storage\\fonts\/lexend_normal_556ffd08054e07be1110c2e83d350ff4",
-        "bold": "lexend_bold_72de0824479ff7b199d2abcefeefb056"
+        "300": "C:\\xampp\\htdocs\\sialam_sumsel\\storage\\fonts\/lexend_300_40dfe9281656cb54e5c65f48f6eb2336",
+        "normal": "lexend_normal_556ffd08054e07be1110c2e83d350ff4",
+        "bold": "C:\\xampp\\htdocs\\sialam_sumsel\\storage\\fonts\/lexend_bold_72de0824479ff7b199d2abcefeefb056"
     }
 }
